@@ -4908,11 +4908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/PipiApp.Api.csproj",
+      "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/PipiApp.Api.csproj",
       "projectName": "PipiApp.Api",
-      "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/PipiApp.Api.csproj",
+      "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/PipiApp.Api.csproj",
       "packagesPath": "/Users/briekketers/.nuget/packages/",
-      "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/obj/",
+      "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/briekketers/.nuget/NuGet/NuGet.Config"
@@ -4928,14 +4928,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj": {
-              "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj"
+            "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj": {
+              "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj"
             },
-            "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj": {
-              "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj"
+            "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj": {
+              "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj"
             },
-            "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj": {
-              "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj"
+            "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj": {
+              "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj"
             }
           }
         }

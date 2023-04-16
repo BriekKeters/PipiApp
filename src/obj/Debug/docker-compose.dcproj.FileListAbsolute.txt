@@ -58,3 +58,33 @@
 /Users/briekketers/Projects/PipiApp publish/src/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
 /Users/briekketers/Projects/PipiApp publish/src/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
 /Users/briekketers/Projects/PipiApp publish/src/obj/Debug/docker-compose.dcproj.CopyComplete
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/appsettings.Development.json
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/appsettings.json
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Api.deps.json
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Api.runtimeconfig.json
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Api
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Api.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.EntityFrameworkCore.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/MediatR.Contracts.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/MediatR.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Repositories.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Data.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Swashbuckle.AspNetCore.Swagger.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.OpenApi.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.Data.SqlClient.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/Microsoft.Identity.Client.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Api.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Repositories.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Models.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/bin/Debug/PipiApp.Data.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/obj/Debug/docker-compose.dcproj.CopyComplete

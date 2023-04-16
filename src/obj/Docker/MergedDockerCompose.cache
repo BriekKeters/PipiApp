@@ -1,8 +1,8 @@
-name: dockercompose12493660630012120428
+name: dockercompose3508081959862287103
 services:
   pipiapp.api:
     build:
-      context: /Users/briekketers/Projects/PipiApp publish/src
+      context: /Users/briekketers/PipiAppProject/PipiApp/src
       dockerfile: PipiApp/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -32,4 +32,4 @@ services:
         create_host_path: true
 networks:
   default:
-    name: dockercompose12493660630012120428_default
+    name: dockercompose3508081959862287103_default

@@ -49,3 +49,20 @@
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.pdb
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.genruntimeconfig.cache
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/obj/Debug/net7.0/ref/PipiApp.Data.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/bin/Debug/net7.0/PipiApp.Data.deps.json
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/bin/Debug/net7.0/PipiApp.Data.runtimeconfig.json
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/bin/Debug/net7.0/PipiApp.Data.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/bin/Debug/net7.0/PipiApp.Data.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/bin/Debug/net7.0/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/bin/Debug/net7.0/PipiApp.Models.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.csproj.AssemblyReference.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.AssemblyInfoInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.AssemblyInfo.cs
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.csproj.CoreCompileInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.csproj.CopyComplete
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/refint/PipiApp.Data.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/PipiApp.Data.genruntimeconfig.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/Debug/net7.0/ref/PipiApp.Data.dll

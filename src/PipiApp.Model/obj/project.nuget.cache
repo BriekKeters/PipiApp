@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ChGojRvA85SjyyJ0YaNi9wL1nR0ga3F7zpapijD9tCpOFId+oIIXn3OOVDaw82eiXYCodWdnaf4dHCykXBCzRQ==",
+  "dgSpecHash": "h8HqeIVPjgZNQ0P20VLkqQJy2hX7r1tMg9ErajjULpe/va1OW/fzGLy4ec10SuHR1V6Imeh7OrlMmyLEEWZFHw==",
   "success": true,
-  "projectFilePath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj",
+  "projectFilePath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj",
   "expectedPackageFiles": [
     "/Users/briekketers/.nuget/packages/docker.dotnet/3.125.14/docker.dotnet.3.125.14.nupkg.sha512",
     "/Users/briekketers/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

@@ -13,8 +13,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=
     volumes:
-      - /Users/briekketers/Projects/PipiApp publish/src/PipiApp:/app
-      - /Users/briekketers/Projects/PipiApp publish/src:/src
+      - /Users/briekketers/PipiAppProject/PipiApp/src/PipiApp:/app
+      - /Users/briekketers/PipiAppProject/PipiApp/src:/src
       - /Users/briekketers/vsdbg/vs2017u5:/remote_debugger:rw
       - /Users/briekketers/.nuget/packages/:/root/.nuget/packages:ro
 

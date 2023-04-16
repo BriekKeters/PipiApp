@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/PipiApp.Api.csproj": {}
+    "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/PipiApp.Api.csproj": {}
   },
   "projects": {
-    "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj": {
+    "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj",
+        "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj",
         "projectName": "PipiApp.Data",
-        "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj",
+        "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj",
         "packagesPath": "/Users/briekketers/.nuget/packages/",
-        "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/obj/",
+        "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/briekketers/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj": {
-                "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj"
+              "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj": {
+                "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj": {
+    "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj",
+        "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj",
         "projectName": "PipiApp.Models",
-        "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj",
+        "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj",
         "packagesPath": "/Users/briekketers/.nuget/packages/",
-        "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/obj/",
+        "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/briekketers/.nuget/NuGet/NuGet.Config"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj": {
+    "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj",
+        "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj",
         "projectName": "PipiApp.Repositories",
-        "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj",
+        "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj",
         "packagesPath": "/Users/briekketers/.nuget/packages/",
-        "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/obj/",
+        "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/briekketers/.nuget/NuGet/NuGet.Config"
@@ -173,11 +173,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj": {
-                "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj"
+              "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj": {
+                "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj"
               },
-              "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj": {
-                "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj"
+              "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj": {
+                "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj"
               }
             }
           }
@@ -221,14 +221,14 @@
         }
       }
     },
-    "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/PipiApp.Api.csproj": {
+    "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/PipiApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/PipiApp.Api.csproj",
+        "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/PipiApp.Api.csproj",
         "projectName": "PipiApp.Api",
-        "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/PipiApp.Api.csproj",
+        "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/PipiApp.Api.csproj",
         "packagesPath": "/Users/briekketers/.nuget/packages/",
-        "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp/obj/",
+        "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/briekketers/.nuget/NuGet/NuGet.Config"
@@ -244,14 +244,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj": {
-                "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj"
+              "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj": {
+                "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj"
               },
-              "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj": {
-                "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj"
+              "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj": {
+                "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj"
               },
-              "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj": {
-                "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/PipiApp.Repositories.csproj"
+              "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj": {
+                "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/PipiApp.Repositories.csproj"
               }
             }
           }

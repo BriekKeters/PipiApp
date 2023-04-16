@@ -3527,11 +3527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj",
+      "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj",
       "projectName": "PipiApp.Data",
-      "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj",
+      "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj",
       "packagesPath": "/Users/briekketers/.nuget/packages/",
-      "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/obj/",
+      "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/briekketers/.nuget/NuGet/NuGet.Config"
@@ -3547,8 +3547,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj": {
-              "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj"
+            "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj": {
+              "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj"
             }
           }
         }

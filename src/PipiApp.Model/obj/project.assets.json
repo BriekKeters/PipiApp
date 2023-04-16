@@ -685,11 +685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj",
+      "projectUniqueName": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj",
       "projectName": "PipiApp.Models",
-      "projectPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/PipiApp.Models.csproj",
+      "projectPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/PipiApp.Models.csproj",
       "packagesPath": "/Users/briekketers/.nuget/packages/",
-      "outputPath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/obj/",
+      "outputPath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/briekketers/.nuget/NuGet/NuGet.Config"

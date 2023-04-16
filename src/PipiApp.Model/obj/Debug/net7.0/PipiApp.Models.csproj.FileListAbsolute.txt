@@ -34,3 +34,15 @@
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/obj/Debug/net7.0/refint/PipiApp.Models.dll
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.pdb
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Model/obj/Debug/net7.0/ref/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/bin/Debug/net7.0/PipiApp.Models.deps.json
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/bin/Debug/net7.0/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/bin/Debug/net7.0/PipiApp.Models.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.csproj.AssemblyReference.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.AssemblyInfoInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.AssemblyInfo.cs
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.csproj.CoreCompileInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/refint/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/PipiApp.Models.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Model/obj/Debug/net7.0/ref/PipiApp.Models.dll

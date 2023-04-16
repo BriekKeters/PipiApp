@@ -49,3 +49,20 @@
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/obj/Debug/net7.0/refint/PipiApp.Repositories.dll
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.pdb
 /Users/briekketers/Projects/PipiApp publish/src/PipiApp.Repositories/obj/Debug/net7.0/ref/PipiApp.Repositories.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Repositories.deps.json
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Repositories.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Repositories.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Data.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Models.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Models.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/bin/Debug/net7.0/PipiApp.Data.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.csproj.AssemblyReference.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.AssemblyInfoInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.AssemblyInfo.cs
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.csproj.CoreCompileInputs.cache
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.csproj.CopyComplete
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/refint/PipiApp.Repositories.dll
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/PipiApp.Repositories.pdb
+/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Repositories/obj/Debug/net7.0/ref/PipiApp.Repositories.dll

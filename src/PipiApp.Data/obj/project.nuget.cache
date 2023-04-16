@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxryHSb1tSyxD0dh7BOnjZQp1JTUa5jWjqfTQUHLnLJ6KHtT1wbr9nHU6VVN5fCFYwIZHtdydfxm1bNNI/0dzQ==",
+  "dgSpecHash": "IgbvPnfDlCNVFZprVKQZYCgrOvnK/lbF+6JSvh91Hu9YW6fs0gO0kfXTn76Y1Ifx6b0V8G6IF2W6AgjCMgisdA==",
   "success": true,
-  "projectFilePath": "/Users/briekketers/Projects/PipiApp publish/src/PipiApp.Data/PipiApp.Data.csproj",
+  "projectFilePath": "/Users/briekketers/PipiAppProject/PipiApp/src/PipiApp.Data/PipiApp.Data.csproj",
   "expectedPackageFiles": [
     "/Users/briekketers/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/briekketers/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
