@@ -1,0 +1,13 @@
+/Users/briekketers/Projects/PipiApp/publish/PipiApp.Models.dll
+/Users/briekketers/Projects/PipiApp/publish/PipiApp.Models.deps.json
+/Users/briekketers/Projects/PipiApp/publish/PipiApp.Models.pdb
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.EntityFrameworkCore.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.Caching.Memory.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.Logging.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.Options.dll
+/Users/briekketers/Projects/PipiApp/publish/Microsoft.Extensions.Primitives.dll

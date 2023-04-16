@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y625/oent6wV0FSobOx7cmKkz5xqM9c9yRCN3GVrNfE=",
+  "Source": "PipiApp.Api",
+  "BasePath": "_content/PipiApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

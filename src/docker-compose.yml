@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pipiapp.api:
+    image: ${DOCKER_REGISTRY-}pipiapp
+    build:
+      context: .
+      dockerfile: PipiApp/Dockerfile

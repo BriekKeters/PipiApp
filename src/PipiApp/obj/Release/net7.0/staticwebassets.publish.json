@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZuJsZcDNt4sWkDSgp0UC0QbSmxlbNbCV23TT84lCXR8=",
+  "Source": "PipiApp.Api",
+  "BasePath": "_content/PipiApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
